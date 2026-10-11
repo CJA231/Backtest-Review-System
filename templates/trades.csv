@@ -1,0 +1,1 @@
+trade_id,account_id,symbol,strategy_id,strategy_version,opened_at,closed_at,planned_entry,planned_stop,initial_risk,status,plan_path
