@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "run_id": "SYNTHETIC-DEMO-001",
+  "label": "Fictional backtest chart demonstration",
+  "currency": "MYR",
+  "strategy_id": "DEMO-TREND",
+  "strategy_version": "v1",
+  "source": "Manually constructed synthetic monthly index points; no market data or backtest engine",
+  "costs": {
+    "commission": "No executed simulation; synthetic net index for UI demonstration only",
+    "slippage": "No executed simulation; no execution-quality evidence"
+  },
+  "notes": "Fictional index values and fictional IS/OOS labels. Sparse monthly observations understate any unobserved drawdowns. This sample does not establish a trading edge.",
+  "initial_capital": 100000,
+  "flow_policy": "NONE",
+  "continuous_index": true
+}
