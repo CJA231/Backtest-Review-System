@@ -1,0 +1,13 @@
+# Local personal records; browser uploads still need manual checks.
+/private/
+/records/
+/journal/
+/reports/
+/output/
+/strategies/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
