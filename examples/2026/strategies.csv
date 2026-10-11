@@ -1,0 +1,3 @@
+strategy_id,version,name,active_from,active_to,rules_path
+TREND,v1,Fictional trend,2026-01-01,,examples/2026/review.md
+BREAKOUT,v1,Fictional breakout,2026-01-01,,examples/2026/review.md

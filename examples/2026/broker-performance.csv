@@ -1,0 +1,9 @@
+date,account_id,return_index,benchmark_index,currency,basis,coverage,source
+2025-12-31,DEMO-01,100.0000000000,100,MYR,TWR_INDEX,baseline,Fictional supplied index; Jan12 deposit at start of day
+2026-01-02,DEMO-01,100.0000000000,100.1,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day
+2026-01-05,DEMO-01,100.0180000000,100.2,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day
+2026-01-06,DEMO-01,100.1770000000,100.3,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day
+2026-01-07,DEMO-01,100.1960000000,100.4,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day
+2026-01-08,DEMO-01,100.1940000000,100.5,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day
+2026-01-09,DEMO-01,99.9920000000,100.6,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day
+2026-01-12,DEMO-01,100.1001810313,100.7,MYR,TWR_INDEX,complete,Fictional supplied index; Jan12 deposit at start of day

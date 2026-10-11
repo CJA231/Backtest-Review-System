@@ -1,0 +1,5 @@
+date,account_id,trade_id,symbol,quantity,mark_price,cost_basis,market_value,unrealized_pnl,source
+2026-01-05,DEMO-01,TR-001,DEMO_A,200,10.2,2022,2040,18,Fictional close
+2026-01-06,DEMO-01,TR-001,DEMO_A,100,11,1021,1100,79,Fictional close
+2026-01-08,DEMO-01,TR-002,DEMO_B,200,20,4002,4000,-2,Fictional close
+2026-01-12,DEMO-01,TR-003,DEMO_C,100,31,3001,3100,99,Fictional close

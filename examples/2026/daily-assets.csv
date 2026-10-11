@@ -1,0 +1,9 @@
+date,account_id,cash,positions_market_value,nav,external_flow,realized_pnl_ytd,unrealized_pnl,fees_ytd,source
+2025-12-31,DEMO-01,100000,0,100000,0,0,0,0,Fictional opening balance
+2026-01-02,DEMO-01,100000,0,100000,0,0,0,0,Fictional close
+2026-01-05,DEMO-01,97978,2040,100018,0,0,18,2,Fictional close
+2026-01-06,DEMO-01,99077,1100,100177,0,98,79,3,Fictional close
+2026-01-07,DEMO-01,100196,0,100196,0,196,0,4,Fictional close
+2026-01-08,DEMO-01,96194,4000,100194,0,196,-2,6,Fictional close
+2026-01-09,DEMO-01,99992,0,99992,0,-8,0,8,Fictional close
+2026-01-12,DEMO-01,107011,3100,110111,10000,-8,99,9,Fictional close

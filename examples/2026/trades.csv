@@ -1,0 +1,4 @@
+trade_id,account_id,symbol,strategy_id,strategy_version,opened_at,closed_at,planned_entry,planned_stop,initial_risk,status,plan_path
+TR-001,DEMO-01,DEMO_A,TREND,v1,2026-01-05T10:00:00+08:00,2026-01-07T10:00:00+08:00,10,9,250,CLOSED,examples/2026/trade-TR-001.md
+TR-002,DEMO-01,DEMO_B,BREAKOUT,v1,2026-01-08T10:00:00+08:00,2026-01-09T10:00:00+08:00,20,19,250,CLOSED,examples/2026/review.md
+TR-003,DEMO-01,DEMO_C,TREND,v1,2026-01-12T10:00:00+08:00,,30,29,150,OPEN,examples/2026/review.md

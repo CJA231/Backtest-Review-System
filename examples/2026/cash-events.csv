@@ -1,0 +1,3 @@
+event_id,timestamp,account_id,event_type,amount,trade_id,note
+CE-001,2026-01-12T08:00:00+08:00,DEMO-01,DEPOSIT,10000,,Fictional deposit
+CE-002,2026-01-12T17:00:00+08:00,DEMO-01,INTEREST,20,,Fictional cash interest
