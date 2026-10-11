@@ -1,0 +1,8 @@
+{
+  "schema_version": 2,
+  "account_id": "YOUR_ACCOUNT",
+  "currency": "MYR",
+  "timezone_offset": "+08:00",
+  "fictional": false,
+  "cost_method": "FIFO"
+}
