@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "run_id": "YOUR_RUN_ID",
+  "label": "Your backtest export",
+  "currency": "MYR",
+  "strategy_id": "YOUR_STRATEGY",
+  "strategy_version": "v1",
+  "source": "Replace with engine, market data, dates and code version",
+  "costs": {
+    "commission": "Replace with exact commission assumption",
+    "slippage": "Replace with exact slippage assumption"
+  },
+  "notes": "Provide one continuous run; label IS and OOS honestly.",
+  "initial_capital": 100000,
+  "flow_policy": "NONE",
+  "continuous_index": true
+}
