@@ -1,0 +1,8 @@
+{
+  "schema_version": 2,
+  "account_id": "DEMO-01",
+  "currency": "MYR",
+  "timezone_offset": "+08:00",
+  "fictional": true,
+  "cost_method": "FIFO"
+}
